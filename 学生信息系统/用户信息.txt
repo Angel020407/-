@@ -1,0 +1,7 @@
+1001 wewe teachar
+0001 aaa student
+0002 bbb student
+0003 ccc student
+0004 ddd student
+0005 eee student
+0006 fff student
